@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my school ASP.NET MVC project in collaboration with [Vencislav Marev](https://github.com/VenciMarev1)
-- 🌱 I’m currently learning C# and Python
+- 🔭 I’m currently working on my school end 12 grade project
+- 🌱 Now also I'm trying to become a Full Stack developer
 - 😄 Pronouns: he/him
 <hr>
 
