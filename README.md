@@ -6,7 +6,10 @@
 <hr>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; max-width: 100%;">
-
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=BogomilPetrov07&margin-w=15&theme=aura" />
+  <br>
+  <br>
   <img src="https://github-readme-stats-three-flax-90.vercel.app/api?username=BogomilPetrov07&theme=github_dark&show_icons=true" />
   <br>
   <br>
