@@ -12,5 +12,5 @@
   <img src="https://github-readme-stats-three-flax-90.vercel.app/api?username=BogomilPetrov07&theme=github_dark&show_icons=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogomilPetrov07&layout=compact&theme=github_dark" alt="Top Langs" height="200"/>
+  <img src="https://github-readme-stats-three-flax-90.vercel.app/api/top-langs/?username=BogomilPetrov07&layout=compact&theme=github_dark" alt="Top Langs" height="200"/>
 </p>
