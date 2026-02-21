@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 <hr>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BogomilPetrov07&theme=aura&margin-w=15&no-bg=true&column=-1&rank=-?" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-eight-swart.vercel.app/?username=BogomilPetrov07&theme=aura&margin-w=15&no-bg=true&column=-1&rank=-?" alt="GitHub Trophies" />
 </p>
 <br>
 <p align="center">
