@@ -1,15 +1,14 @@
-# Hi there 👋
+# Hi there, I'm Bogomil! 👋
 
-- 🔭 I’m currently working on my school end 12 grade project
-- 🌱 Now also I'm trying to become a Full Stack developer
-- 😄 Pronouns: he/him
+- 🚀 Recently graduated **Applied Programmer** with a focus on Full-Stack Web Development.
+- 🛠️ Creator of **Drivio** – a management web platform for driving schools built using the **PERN stack** (PostgreSQL, Express, React, Node.js) and **TypeScript**.
+- ⚙️ Passionate about backend architecture, relational databases (**Drizzle ORM**, PostgreSQL), and performance optimization.
+- 📬 Connect with me on LinkedIn or via email!
 
 ## 🔗 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/bogomil-petrov"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://discord.com/users/931955023120851035"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://www.instagram.com/bogo_petrov/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.tiktok.com/@bogo_petrov"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 </p>
 <hr>
 <br/>
