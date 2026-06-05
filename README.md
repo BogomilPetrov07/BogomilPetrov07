@@ -1,9 +1,9 @@
-# Hi there, I'm Bogomil! 👋
+# Hello, I'm Bogomil Petrov!
 
-- 🚀 Recently graduated **Applied Programmer** with a focus on Full-Stack Web Development.
+- 🚀 Recently graduated **Applied Programmer** with a strong focus on Full-Stack Web Development.
 - 🛠️ Creator of **Drivio** – a management web platform for driving schools built using the **PERN stack** (PostgreSQL, Express, React, Node.js) and **TypeScript**.
-- ⚙️ Passionate about backend architecture, relational databases (**Drizzle ORM**, PostgreSQL), and performance optimization.
-- 📬 Connect with me on LinkedIn or via email!
+- ⚙️ Focused on backend architecture, relational databases (**Drizzle ORM**, PostgreSQL), and performance optimization.
+- 📬 Open to junior roles and internship opportunities. Let's connect on LinkedIn or via email!
 
 ## 🔗 Connect with me
 <p align="left">
