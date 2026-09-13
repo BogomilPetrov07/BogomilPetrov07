@@ -24,10 +24,4 @@
     &nbsp;
     <img src="https://github-readme-stats-three-flax-90.vercel.app/api?username=BogomilPetrov07&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
   </div>
-  
-  <br/>
-  
-  <div align="center">
-    <img src="https://github-readme-stats-three-flax-90.vercel.app/api/top-langs/?username=BogomilPetrov07&layout=compact&theme=tokyonight&count_private=true&langs_count=6&hide=html,css" height="165" alt="Top Langs" />
-  </div>
 </div>
